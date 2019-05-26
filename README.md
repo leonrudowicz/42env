@@ -12,13 +12,13 @@ Files and code stored in the "automator solution" folder represent my old setup 
 The Automator script changes the 
 
 * dock layout
-...* Set dock to left side
-...* Set autohide enabled
-...* Only add Launchpad, VS Code, Chrome, Screen Sharing and iTerm to the Dock
+...Set dock to left side
+...Set autohide enabled
+...Only add Launchpad, VS Code, Chrome, Screen Sharing and iTerm to the Dock
 * keyboard input method
-...* Add and activate the german keymap
+...Add and activate the german keymap
 * desktop background
-...* Change the desktop background to the supplied BG.jpg
+...Change the desktop background to the supplied BG.jpg
 
 ### Useage
 To use the automator solution the plist files and the BG.jpg must be located on the Desktop. The STARTME.wflow is an executeable workflow file. StartEdit opens the Automator layout program, and lets you modify the simple script
