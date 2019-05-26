@@ -11,13 +11,13 @@ Files and code stored in the "automator solution" folder represent my old setup 
 ### What changes
 The Automator script changes the 
 
-* dock layout
+1. dock layout
 ...Set dock to left side
 ...Set autohide enabled
 ...Only add Launchpad, VS Code, Chrome, Screen Sharing and iTerm to the Dock
-* keyboard input method
+2. keyboard input method
 ...Add and activate the german keymap
-* desktop background
+3. desktop background
 ...Change the desktop background to the supplied BG.jpg
 
 ### Useage
